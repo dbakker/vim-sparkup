@@ -62,5 +62,4 @@ function! sparkup#prev()
     echo 'Sparkup: search hit TOP'
     echohl None
   endif
-  endif
 endfunction
